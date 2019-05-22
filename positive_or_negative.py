@@ -1,4 +1,4 @@
-num=int(input("INPUT:"))
+num=int(input(""))
 if(num==0):
   print("Zero")
 elif(num>0):
